@@ -1,0 +1,37 @@
+﻿  AES.c
+  AesPadding.c
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(42,30): warning C4244: 'function': conversion from 'SIZE_T' to 'int', possible loss of data
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(45,10): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(45,10): message : consider using '%zd' in the format string
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(57,10): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'SIZE_T'
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(57,10): message : consider using '%lld' in the format string
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(57,10): message : consider using '%Id' in the format string
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(57,10): message : consider using '%I64d' in the format string
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(67,9): warning C4477: 'printf' : format string '%ld' requires an argument of type 'long', but variadic argument 1 has type 'SIZE_T'
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(67,9): message : consider using '%lld' in the format string
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(67,9): message : consider using '%Id' in the format string
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(67,9): message : consider using '%I64d' in the format string
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(28,1): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\AesPadding.c(44,35): warning C4244: 'initializing': conversion from 'SIZE_T' to 'int', possible loss of data
+  Main.c
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(30,2): warning C4091: 'typedef ': ignored on left of 'MyStruct' when no variable is declared
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(48,47): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(48,47): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(60,1): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(84,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'size_t'
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(84,9): message : consider using '%zd' in the format string
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(124,94): warning C4047: '==': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(140,8): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(213,3): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(221,3): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(229,14): warning C4244: 'function': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(235,3): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(154,1): warning C4047: 'initializing': 'SIZE_T' differs in levels of indirection from 'void *'
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\Main.c(115,7): warning C4101: 'OutputShellFileName': unreferenced local variable
+  RC4.c
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\RC4.c(42,37): warning C4244: '=': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\RC4.c(48,7): warning C4133: 'function': incompatible types - from 'USTRING *' to 'USTRING *'
+C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\EncryptedReaper\RC4.c(48,7): warning C4133: 'function': incompatible types - from 'USTRING *' to 'const USTRING *'
+  XOR.c
+  Generating Code...
+  EncryptedReaper.vcxproj -> C:\Users\beydo\Downloads\EncryptedReaper (1)\EncryptedReaper\x64\Debug\EncryptedReaper.exe
